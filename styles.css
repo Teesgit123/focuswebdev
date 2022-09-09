@@ -1,0 +1,16 @@
+body {
+    background-image: linear-gradient(to right, blue, yellow);
+    display: flex;
+}
+.container {
+    width: 100%;
+    margin-top: 50%;
+    margin-bottom: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center-box {
+    background-color: cornflowerblue;
+    padding: 10px;
+}
